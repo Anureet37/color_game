@@ -14,5 +14,5 @@ A game to guess color from its RGB values.
 - Option to restart game again even if not completed
 - Concise Display
 ## Preview
-![Image of game](https://github.com/Anureet37/color_game/game.jpg?raw=true)
-![Image of game](https://github.com/Anureet37/color_game/gamewin.jpg?raw=true)
+![](https://github.com/Anureet37/color_game/blob/main/game.jpg?raw=true)
+![](https://github.com/Anureet37/color_game/blob/main/gamewin.jpg?raw=true)
